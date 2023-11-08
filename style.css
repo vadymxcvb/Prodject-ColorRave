@@ -4,6 +4,9 @@
     border: 0px;
     box-sizing: border-box;
 }
+ul{
+    list-style: none;
+}
 .smile-nike{
     /* ed69f7fa91929ff49ecafac2bfd72360 2 */
 
@@ -772,6 +775,7 @@ top: 2192px;
 
 background: #FFFFFF;
 border-radius: 50px;
+padding-left: 20px;
 
 }
 .input-2{
@@ -785,7 +789,7 @@ top: 2271px;
 
 background: #FFFFFF;
 border-radius: 50px;
-
+padding-left: 20px;
 }
 .input-3{
 /* Rectangle 20 */
@@ -798,7 +802,7 @@ top: 2340px;
 
 background: #FFFFFF;
 border-radius: 50px;
-
+padding-left: 20px;
 }
 .input-4{
 /* Rectangle 21 */
@@ -811,7 +815,7 @@ top: 2409px;
 
 background: #FFFFFF;
 border-radius: 50px;
-
+padding-left: 20px;
 }
 .button-2{
 /* Rectangle 22 */
@@ -1064,7 +1068,6 @@ left: 2px;
 top: 1694px;
 
 background: url(цветы 2.png);
-transform: matrix(-1, 0, 0, 1, 0, 0);
 
 }
 .fot-img{
@@ -1093,5 +1096,51 @@ left: 0px;
 top: 2583px;
 
 background: #021635;
+
+}
+.buttoninput{
+/* Rectangle 22 */
+
+position: absolute;
+width: 248px;
+height: 68px;
+left: 596px;
+top: 2546px;
+
+background: #8E32C6;
+border-radius: 16px;
+
+
+/* Order my Nike */
+
+position: absolute;
+width: 151px;
+height: 28px;
+left: 644px;
+top: 2498px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+
+
+}
+.img-dd{
+    /* Rectangle 22 */
+
+position: absolute;
+width: 248px;
+height: 68px;
+left: 596px;
+top: 2476px;
+
+background: #8E32C6;
+border-radius: 16px;
+transform: matrix(1, 0, 0, -1, 0, 0);
 
 }
